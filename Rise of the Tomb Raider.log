@@ -1,0 +1,368 @@
+14:53:35:933 (00012772) > [Startup] Rise of the Tomb Raider
+14:53:35:933 (00012772) > [Startup] ==============
+14:53:35:933 (00012772) > [Startup] 
+14:53:35:933 (00012772) > [Startup] Build: v1.0 build 1027.0_64
+14:53:35:933 (00012772) > [Startup] Windows 10.0 (build 19045)
+14:53:35:933 (00012772) > [Startup] Game directory: C:\Users\Gamer\Documents\Rise of the Tomb Raider\
+14:53:35:934 (00012772) > [Startup] 
+14:53:35:934 (00012772) > [Startup] Memory statistics:
+14:53:35:934 (00012772) > [Startup]   Total RAM = 32.0 GB (32764 MB)
+14:53:35:934 (00012772) > [Startup]   Avail RAM = 26.9 GB (27512 MB)
+14:53:35:934 (00012772) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+14:53:35:934 (00012772) > [Startup]   Avail virtual memory = 131064.8 GB (134210349 MB)
+14:53:35:934 (00012772) > [Startup] 
+14:53:35:934 (00012772) > [NxApp] PreInit
+14:53:35:934 (00012772) > [Steam] Initializing.
+14:53:35:934 (00012772) > [Steam] Successfully initialized.
+14:53:35:934 (00012772) > [Epic] Initializing Epic SDK.
+14:53:36:002 (00012772) > [Epic] Initialized. Setting Logging Callback ...
+14:53:36:002 (00012772) > [Epic] Logging Callback Set
+14:53:36:002 (00012772) > [Epic] Creating platform.
+14:53:36:005 (00012772) > [Epic] LogEOSOverlay: Overlay will not load, because the binary's path is not configured
+14:53:36:015 (00012772) > [Epic] LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started with the correct launcher if you intend to use it.
+14:53:36:015 (00012772) > [Epic] Platform created.
+14:53:36:015 (00012772) > [SwapChain] Initializing...
+14:53:36:015 (00012772) > [DXGI] Initializing...
+14:53:36:020 (00012772) > [DXGI] Created DXGIFactory1
+14:53:36:020 (00012772) > [DXGI] Successfully initialized.
+14:53:36:020 (00012772) > [Render] Enumerating adapters:
+14:53:36:020 (00012772) > [Render] 	Adapter 0:
+14:53:36:020 (00012772) > [Monitor] 		Description             : NVIDIA Tesla T4
+14:53:36:020 (00012772) > [Monitor] 		Vendor                  : nVidia (10de)
+14:53:36:020 (00012772) > [Monitor] 		Device                  : 1eb8
+14:53:36:020 (00012772) > [Monitor] 		Sub system              : 12a210de
+14:53:36:020 (00012772) > [Monitor] 		Revision                : 161
+14:53:36:020 (00012772) > [Monitor] 		Dedicated Video Memory  : 15158 MB
+14:53:36:020 (00012772) > [Monitor] 		Dedicated System Memory : 0000 MB
+14:53:36:020 (00012772) > [Monitor] 		Shared System Memory    : 16382 MB
+14:53:36:020 (00012772) > [Monitor] 
+14:53:36:020 (00012772) > [Render] Loading NVAPI...
+14:53:36:056 (00012772) > [Render] NVidia 3D Vision NvAPI_Stereo_IsEnabled error.
+14:53:36:056 (00012772) > [Render] Done loading NVAPI
+14:53:36:056 (00012772) > [Render] 	Adapter 1:
+14:53:36:056 (00012772) > [Monitor] 		Description             : NVIDIA Tesla T4
+14:53:36:056 (00012772) > [Monitor] 		Vendor                  : nVidia (10de)
+14:53:36:056 (00012772) > [Monitor] 		Device                  : 1eb8
+14:53:36:056 (00012772) > [Monitor] 		Sub system              : 12a210de
+14:53:36:056 (00012772) > [Monitor] 		Revision                : 161
+14:53:36:056 (00012772) > [Monitor] 		Dedicated Video Memory  : 15158 MB
+14:53:36:056 (00012772) > [Monitor] 		Dedicated System Memory : 0000 MB
+14:53:36:056 (00012772) > [Monitor] 		Shared System Memory    : 16382 MB
+14:53:36:056 (00012772) > [Monitor] 
+14:53:36:056 (00012772) > [Render] 	Adapter 2:
+14:53:36:056 (00012772) > [Monitor] 		Description             : Microsoft Basic Render Driver
+14:53:36:056 (00012772) > [Monitor] 		Vendor                  : Unknown (1414)
+14:53:36:056 (00012772) > [Monitor] 		Device                  : 8c
+14:53:36:056 (00012772) > [Monitor] 		Sub system              : 0
+14:53:36:056 (00012772) > [Monitor] 		Revision                : 0
+14:53:36:056 (00012772) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+14:53:36:056 (00012772) > [Monitor] 		Dedicated System Memory : 0000 MB
+14:53:36:056 (00012772) > [Monitor] 		Shared System Memory    : 16382 MB
+14:53:36:056 (00012772) > [Monitor] 
+14:53:36:056 (00012772) > [Render] 	Adapter 3:
+14:53:36:057 (00012772) > [Monitor] 		Description             : Microsoft Basic Render Driver
+14:53:36:057 (00012772) > [Monitor] 		Vendor                  : Unknown (1414)
+14:53:36:057 (00012772) > [Monitor] 		Device                  : 8c
+14:53:36:057 (00012772) > [Monitor] 		Sub system              : 0
+14:53:36:057 (00012772) > [Monitor] 		Revision                : 0
+14:53:36:057 (00012772) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+14:53:36:057 (00012772) > [Monitor] 		Dedicated System Memory : 0000 MB
+14:53:36:057 (00012772) > [Monitor] 		Shared System Memory    : 16382 MB
+14:53:36:057 (00012772) > [Monitor] 
+14:53:36:057 (00012772) > [Render] Enumerating monitors:
+14:53:36:057 (00012772) > [Render] 	Monitor 0: handle = 0000000000030103, aspect = 1.78
+14:53:36:057 (00012772) > [Render] 
+14:53:36:314 (00012772) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+14:53:36:314 (00012772) > [Render] NVidia 3D Vision is not enabled.
+14:53:36:314 (00012772) > [Render] Enumerating Display Modes:
+14:53:36:314 (00012772) > [Render] Querying NVAPI for Surround modes
+14:53:36:315 (00012772) > [Render] NvAPI_DISP_GetGDIPrimaryDisplayId returned NVAPI_NVIDIA_DEVICE_NOT_FOUND (fffffffa)
+
+14:53:37:452 (00012772) > [NxDLSS] DLSS support test, code = 0x00000001, info: NVSDK_NGX_Result_Success
+14:53:38:416 (00012772) > [Render] 	Monitor '1 (NVIDIA Tesla T4(1))' (0000000000030103):
+14:53:38:416 (00012772) > [Render] 		- Mode  0 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  1 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  2 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  3 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  4 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  5 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  6 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  7 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  8 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode  9 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 10 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 11 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 12 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 13 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 14 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 15 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 16 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 17 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 18 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 19 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 20 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 21 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 22 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 23 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 24 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 25 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 26 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 27 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 28 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 29 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 30 : 2112 x 1188 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 31 : 2112 x 1188 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 32 : 2160 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 33 : 2160 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 34 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 35 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 36 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 37 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 38 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 39 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 40 : 2880 x 1800 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 41 : 2880 x 1800 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 42 : 2940 x 1912 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 43 : 2940 x 1912 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 44 : 3024 x 1964 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 45 : 3024 x 1964 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 46 : 3360 x 2100 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 47 : 3360 x 2100 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 48 : 3440 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 49 : 3440 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 50 : 3456 x 2234 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 51 : 3456 x 2234 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 52 : 3584 x 2240 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 53 : 3584 x 2240 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 54 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 55 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 56 : 5120 x 2880 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 57 : 5120 x 2880 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 58 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 59 :  800 x  600 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 60 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 61 : 1024 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 62 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 63 : 1152 x  864 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 64 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 65 : 1280 x  720 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 66 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 67 : 1280 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 68 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 69 : 1280 x  800 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 70 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 71 : 1280 x 1024 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 72 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 73 : 1360 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 74 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 75 : 1366 x  768 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 76 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 77 : 1440 x  900 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 78 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 79 : 1600 x  900 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:416 (00012772) > [Render] 		- Mode 80 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 81 : 1600 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 82 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 83 : 1680 x 1050 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 84 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 85 : 1920 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 86 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 87 : 1920 x 1200 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 88 : 2112 x 1188 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 89 : 2112 x 1188 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 90 : 2160 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 91 : 2160 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 92 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 93 : 2560 x 1080 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 94 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 95 : 2560 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 96 : 2560 x 1600 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 97 : 2560 x 1600 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 98 : 2880 x 1800 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 99 : 2880 x 1800 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 100 : 2940 x 1912 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 101 : 2940 x 1912 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 102 : 3024 x 1964 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 103 : 3024 x 1964 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 104 : 3360 x 2100 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 105 : 3360 x 2100 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 106 : 3440 x 1440 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 107 : 3440 x 1440 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 108 : 3456 x 2234 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 109 : 3456 x 2234 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 110 : 3584 x 2240 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 111 : 3584 x 2240 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 112 : 3840 x 2160 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 113 : 3840 x 2160 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 114 : 5120 x 2880 @  60 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 		- Mode 115 : 5120 x 2880 @ 120 Hz, stereo = 0, hdr = 0
+14:53:38:417 (00012772) > [Render] 
+14:53:38:417 (00012772) > [SwapChain] Successfully initialized.
+14:53:38:417 (00012772) > [NxApp] PreInit successful.
+14:53:38:417 (00012772) > [Main] Current directory: F:\Rise of the Tomb Raider
+14:53:38:417 (00012772) > [Main] Working directory: F:\Rise of the Tomb Raider
+14:53:38:418 (00012772) > [MultiCore] CPU count: logical = 8
+14:53:38:449 (00012772) > [Main] Steam Language: '(null)'
+14:53:38:449 (00012772) > [Main] Settings: Text Language: 'ru-ru' | VO Language: 'ru-ru' | Steam Game Language 'ru-ru'
+14:53:38:449 (00012772) > [Main] Using: Text Language: 'ru-ru' | VO Language: 'ru-ru'
+14:53:38:680 (00012772) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+14:53:42:521 (00012772) > [Validate Settings] Desktop settings (Resolution: 1920 x 1080, Multi-monitor: off, Bezel correction: off)
+14:53:42:523 (00012772) > [D3D] Initializing...
+14:53:42:523 (00012772) > [D3D] Loaded d3d11.dll
+14:53:42:523 (00012772) > [D3D] Obtained D3D11CreateDevice address
+14:53:42:523 (00012772) > [D3D] Successfully initialized
+14:53:42:531 (00012772) > [D3D] Max supported feature level: 11.0
+14:53:42:532 (00010780) > [D3D] Creating D3D Device...
+14:53:42:532 (00010780) > [SwapChain] Creating D3D on adapter '1 (NVIDIA Tesla T4(1))'.
+14:53:42:578 (00010780) > [SwapChain] Created D3D device with feature level 11.0.
+14:53:42:579 (00010780) > [D3D] Successfully created.
+14:53:42:579 (00012772) > [NxApp] Querying GPU Driver Info...
+14:53:42:582 (00012772) > [NxApp] Enumerating available display adapters:
+14:53:42:605 (00012772) > [NxApp] 		NVIDIA Tesla T4 (active)
+14:53:42:606 (00012772) > [NxApp] 		NVIDIA GeForce GTX 1080 Ti
+14:53:42:606 (00012772) > [NxApp] 		NVIDIA Tesla T10
+14:53:42:607 (00012772) > [NxApp] 		AMD Radeon RX 6700 XT
+14:53:42:608 (00012772) > [NxApp] Successfully found GPU Driver Info
+14:53:42:608 (00012772) > [NxApp] Driver Desc: NVIDIA Tesla T4
+14:53:42:608 (00012772) > [NxApp] Driver Version: 31.0.15.2727
+14:53:42:608 (00012772) > [Settings] DirectX Version: 11
+14:53:42:608 (00012772) > [Settings] Window mode:
+14:53:42:608 (00012772) > [Settings] 	Fullscreen: 1
+14:53:42:608 (00012772) > [Settings] 	Excl.Fullscreen: 0
+14:53:42:608 (00012772) > [Settings] 	Monitor: 0
+14:53:42:608 (00012772) > [Settings] 		Monitor Rect: x: 0 y: 0 w: 1920 h: 1080
+14:53:42:608 (00012772) > [Settings] 		Workspace Rect: x: 0 y: 0 w: 1920 h: 1040
+14:53:42:608 (00012772) > [Settings] 		Aspect Ratio: 1.778739 (Pixel Aspect Ratio: 0.999460)
+14:53:42:608 (00012772) > [Settings] Fullscreen display mode:
+14:53:42:608 (00012772) > [Settings] 	Display mode: 1920x1080@60
+14:53:42:608 (00012772) > [Settings] 		VSync: 1, TripleBuffer: 0
+14:53:42:608 (00012772) > [Settings] 		MultiMonitor: 0
+14:53:42:608 (00012772) > [Settings] 		BezelCorrected: 0
+14:53:42:608 (00012772) > [Settings] 		Stereoscopic3D: 0
+14:53:42:608 (00012772) > [Settings] Window settings:
+14:53:42:608 (00012772) > [Settings] 	Window rect: x: 240 y: 135 w: 1440 h: 810
+14:53:42:608 (00012772) > [Settings] 	User window: w: 1440 h: 810
+14:53:42:608 (00012772) > [Settings] 	Window maximized: 0
+14:53:42:608 (00012772) > [Settings] Graphics Options:
+14:53:42:608 (00012772) > [Settings] 	TextureQuality: 2, TextureFiltering: 2, ShadowQuality: 2
+14:53:42:608 (00012772) > [Settings] 	AO: 1, DOF: 1, FXAA: 1, SMAA: 0, SSAA: 0, Bloom: 1
+14:53:42:608 (00012772) > [Settings] 	MotionBlur: 1 VignetteBlur: 1 Tessellation: 1
+14:53:42:608 (00012772) > [Settings] 	LensFlares: 1 ScreenFX: 1 SSR: 1 HairQuality: 1
+14:53:42:608 (00012772) > [Settings] 	Specular Reflection Quality: 0
+14:53:42:608 (00012772) > [Settings] 	FoliageQuality: 1
+14:53:42:608 (00012772) > [Settings] 	FOVCorrection :1.000000
+14:53:42:608 (00012772) > [Settings] 	LevelOfDetail: 2
+14:53:42:608 (00012772) > [Settings] 	StereoSeparation: 0.022000
+14:53:42:608 (00012772) > [Settings] 	StereoPopOut: 5.000000
+14:53:42:608 (00012772) > [Settings] 	StereoNearSeparationMultiplier :0.350000
+14:53:42:608 (00012772) > [NxApp] Creating window...
+14:53:42:609 (00002988) > [GameWindow] UpdateState bVisible true
+14:53:42:619 (00002988) > [Input] Keyboard language: "Английский (США)" (id: 1033)
+14:53:42:620 (00002988) > [Input] Keyboard physical layout: "US" (id: 00000409)
+14:53:42:620 (00002988) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 2 usagePage 65280
+14:53:42:620 (00002988) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 1 usagePage 65280
+14:53:42:620 (00002988) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 110
+14:53:42:621 (00002988) > [Input] Keyboard            "Standard PS/2 Keyboard"   type 7 subType 0 mode 1 function 12 indicators 3 total 101
+14:53:42:621 (00002988) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 3 sampleRate 0 horizontalWheel no
+14:53:42:621 (00002988) > [Input] Mouse               "PS/2 Compatible Mouse"   id 32 buttons 5 sampleRate 100 horizontalWheel no
+14:53:42:621 (00002988) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+14:53:42:621 (00002988) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+14:53:42:624 (00012772) > [NxApp] Window created.
+14:53:42:624 (00012772) > [NxApp] Initializing swapchain...
+14:53:42:624 (00010780) > [SwapChain] Creating...
+14:53:42:624 (00010780) > [Render] NVidia 3D Vision NvAPI_Stereo_SetDriverMode error.
+14:53:42:624 (00010780) > [Render] NVidia 3D Vision is not enabled.
+14:53:42:625 (00010780) > [VR] VR Released.
+14:53:42:626 (00010780) > [DXGI] Created swapchain.
+14:53:42:626 (00010780) > [SwapChain] Gamma correction is enabled.
+14:53:42:626 (00010780) > [SwapChain] Successfully created.
+14:53:42:629 (00012772) > [NxApp] Swapchain initialized
+14:53:42:629 (00012772) > [NxApp] Initializing renderer...
+14:53:42:632 (00012772) > [NxApp] Renderer initialized
+14:53:42:632 (00012772) > [Main] Starting Tomb Raider v1.0 build 1027.0_64
+14:53:42:685 (00012772) > [D3D] [Render] PCDX11DeviceManager constructor start
+14:53:42:685 (00012772) > [D3D] D3D Adapter Information:
+14:53:42:685 (00012772) > [D3D] Adapter Description: NVIDIA Tesla T4
+14:53:42:685 (00012772) > [D3D] VendorID: 10de
+14:53:42:685 (00012772) > [D3D] DeviceID: 1eb8
+14:53:42:685 (00012772) > [D3D] Revision: a1
+14:53:42:685 (00012772) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+14:53:42:685 (00012772) > [D3D] NVAPI loaded succesfully.
+14:53:42:685 (00012772) > [D3D] NVAPI Depth Bounds Test supported.
+14:53:42:757 (00012772) > [VXGI] VXGI has been succesfully initialized
+14:53:42:766 (00012772) > [HBAO+] HBAO+ Context creation succeeded
+14:53:43:820 (00012772) > [D3D] D3D Adapter Information:
+14:53:43:820 (00012772) > [D3D] Adapter Description: NVIDIA Tesla T4
+14:53:43:820 (00012772) > [D3D] VendorID: 10de
+14:53:43:820 (00012772) > [D3D] DeviceID: 1eb8
+14:53:43:820 (00012772) > [D3D] Revision: a1
+14:53:43:820 (00012772) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+14:53:43:820 (00012772) > [D3D] NVAPI loaded succesfully.
+14:53:43:820 (00012772) > [D3D] NVAPI Depth Bounds Test supported.
+14:53:43:854 (00012772) > [VXGI] VXGI has been succesfully initialized
+14:53:43:857 (00012772) > [HBAO+] HBAO+ Context creation succeeded
+14:53:43:862 (00012772) > [D3D] [Render] Adapter N has no outputs!
+14:53:43:862 (00012772) > [D3D] D3D Adapter Information:
+14:53:43:862 (00012772) > [D3D] Adapter Description: Microsoft Basic Render Driver
+14:53:43:862 (00012772) > [D3D] VendorID: 1414
+14:53:43:862 (00012772) > [D3D] DeviceID: 8c
+14:53:43:862 (00012772) > [D3D] Revision: 0
+14:53:43:892 (00012772) > [VXGI] VXGI has been succesfully initialized
+14:53:43:895 (00012772) > [HBAO+] HBAO+ Context creation succeeded
+14:53:43:899 (00012772) > [D3D] [Render] Adapter M has no outputs!
+14:53:43:899 (00012772) > [D3D] D3D Adapter Information:
+14:53:43:899 (00012772) > [D3D] Adapter Description: Microsoft Basic Render Driver
+14:53:43:899 (00012772) > [D3D] VendorID: 1414
+14:53:43:899 (00012772) > [D3D] DeviceID: 8c
+14:53:43:899 (00012772) > [D3D] Revision: 0
+14:53:43:930 (00012772) > [VXGI] VXGI has been succesfully initialized
+14:53:43:932 (00012772) > [HBAO+] HBAO+ Context creation succeeded
+14:53:43:936 (00012772) > [D3D] [Render] Adapter M has no outputs!
+14:53:43:936 (00012772) > [D3D] [Render] PCDX11DeviceManager constructor end
+14:53:43:936 (00012772) > [D3D] D3D Adapter Information:
+14:53:43:936 (00012772) > [D3D] Adapter Description: NVIDIA Tesla T4
+14:53:43:936 (00012772) > [D3D] VendorID: 10de
+14:53:43:936 (00012772) > [D3D] DeviceID: 1eb8
+14:53:43:936 (00012772) > [D3D] Revision: a1
+14:53:43:936 (00012772) > [D3D] NVidia hardware detected. Attemping to load NVAPI...
+14:53:43:936 (00012772) > [D3D] NVAPI loaded succesfully.
+14:53:43:936 (00012772) > [D3D] NVAPI Depth Bounds Test supported.
+14:53:43:967 (00012772) > [VXGI] VXGI has been succesfully initialized
+14:53:43:969 (00012772) > [HBAO+] HBAO+ Context creation succeeded
+14:53:43:974 (00012772) > [D3D] PCDX11SwapChain::Resize(1920, 1080, False)
+14:53:43:974 (00012772) > [D3D] PCDX11SwapChain::Resize no change
+14:53:44:120 (00012772) > [Sound] Initalizing audio...
+14:53:44:169 (00012772) > [Sound] Audio device found. FMOD reports 2 driver(s).
+14:53:44:169 (00012772) > [Sound] Audio Driver Name: Line 2 (Virtual Audio Cable)
+14:53:44:169 (00012772) > [Sound] Speaker Mode: 2
+14:53:45:298 (00012772) > [Input] Assigned gamepad -1 to player 0
+14:53:45:959 (00012772) > [Epic] LogEOS: Large tick time detected 9.9441
+14:53:45:959 (00012772) > [Epic] LogEOS: Updating Platform SDK Config, Time: 9.944124
+14:53:46:340 (00012772) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+14:53:46:340 (00012772) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+14:53:46:340 (00012772) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+14:53:46:340 (00012772) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+14:53:46:928 (00012772) > [Epic] LogEOS: SDK Config Platform Update Request Successful, Time: 10.905560
+14:53:46:930 (00012772) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+14:53:46:930 (00012772) > [Epic] LogEOSAnalytics: Record Event: SDKOverlayComponent.Init <Redacted>
+14:53:46:930 (00012772) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:53:46:930 (00012772) > [Epic] WARNING: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+14:53:46:931 (00012772) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+14:53:46:931 (00012772) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+14:53:46:931 (00012772) > [Epic] LogEOS: Updating Product SDK Config, Time: 10.912526
+14:53:47:089 (00012772) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:53:47:106 (00012772) > [Epic] LogEOSConnect: ConnectClientAuthTask Success
+14:53:47:123 (00012772) > [Epic] LogEOSAnalytics: Start Session (User: ...)
+14:53:47:289 (00012772) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:53:47:306 (00012772) > [Epic] LogEOS: SDK Config Product Update Request Successful, Time: 11.273522
+14:53:47:308 (00012772) > [Epic] WARNING: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+14:53:47:308 (00012772) > [Epic] WARNING: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_UnexpectedError).
+14:53:47:308 (00012772) > [Epic] LogEOSP2P: Using Port Range 7777-7876 for P2P traffic
+14:53:47:308 (00012772) > [Epic] LogEOSP2P: UpdateConfiguration RtcCertificateMaxLifetimeMilliseconds not specified, using default value 10800000
+14:53:47:308 (00012772) > [Epic] LogEOS: SDK Config Data - Watermark: 968253146
+14:53:47:308 (00012772) > [Epic] LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.273522, Update Interval: 319.135101
+14:53:47:487 (00012772) > [Epic] LogEOSAnalytics: Record Event: EOSSDK.HTTP.Complete <Redacted>
+14:53:52:000 (00012772) > [Menu] UiMenuStateSquareEnixMembers::OnEnter: bFromStartupFlow=1, HasSEMBeenHandled=1, bIsOnline=1
+14:54:46:936 (00012772) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:54:46:936 (00012772) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
+14:54:47:102 (00012772) > [Epic] LogEOSAnalytics: Record Event: UsageMetric <Redacted>
